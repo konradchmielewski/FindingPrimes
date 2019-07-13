@@ -1,0 +1,7 @@
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\FindingPrimes\FindingPrimes\bin\Debug\FindingPrimes.exe.config
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\FindingPrimes\FindingPrimes\bin\Debug\FindingPrimes.exe
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\FindingPrimes\FindingPrimes\bin\Debug\FindingPrimes.pdb
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\FindingPrimes\FindingPrimes\obj\Debug\FindingPrimes.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\FindingPrimes\FindingPrimes\obj\Debug\FindingPrimes.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\FindingPrimes\FindingPrimes\obj\Debug\FindingPrimes.exe
+C:\Users\Konrad\Desktop\Zadania InterSys\Rozwiązania\FindingPrimes\FindingPrimes\obj\Debug\FindingPrimes.pdb
